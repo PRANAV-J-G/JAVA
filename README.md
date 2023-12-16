@@ -15,12 +15,12 @@ How to Run
 Clone the repository to your local machine.
 
 bash
-Copy code
+Copy code:
 git clone https://github.com/your-username/pong-game-java.git
 Navigate to the project directory.
 
 bash
-Copy code
+Copy code:
 cd pong-game-java
 Compile and run the PongGame class.
 
@@ -53,7 +53,5 @@ Implementing a game-over screen.
 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Enjoy playing Pong! 🏓
