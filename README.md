@@ -28,13 +28,13 @@ bash
 Copy code
 javac PongGame.java
 java PongGame
+
 Game Controls
 Player 1 (Left Paddle):
-
 W: Move paddle up
 S: Move paddle down
-Player 2 (Right Paddle):
 
+Player 2 (Right Paddle):
 Up Arrow: Move paddle up
 Down Arrow: Move paddle down
 Gameplay
