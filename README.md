@@ -9,25 +9,7 @@ Customization
 Contributing
 License
 Getting Started
-Prerequisites
-Java Development Kit (JDK) installed on your machine.
-How to Run
-Clone the repository to your local machine.
-
-bash
-Copy code:
-git clone https://github.com/your-username/pong-game-java.git
-Navigate to the project directory.
-
-bash
-Copy code:
-cd pong-game-java
-Compile and run the PongGame class.
-
-bash
-Copy code
-javac PongGame.java
-java PongGame
+Prerequisites:Java Development Kit (JDK) installed on your machine.
 
 Game Controls
 Player 1 (Left Paddle):
