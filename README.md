@@ -1,16 +1,6 @@
 Pong Game in Java
 Welcome to the Pong Game project! This simple yet classic Pong game is implemented in Java using Swing for GUI. It features two paddles, a ball, and keeps score for each player. The game runs in a JFrame and offers a basic but entertaining gaming experience.
 
-Table of Contents
-Getting Started
-Game Controls
-Gameplay
-Customization
-Contributing
-License
-Getting Started
-Prerequisites:Java Development Kit (JDK) installed on your machine.
-
 Game Controls
 Player 1 (Left Paddle):
 W: Move paddle up
